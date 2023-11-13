@@ -1,1 +1,4 @@
 .DS_Store
+data/
+downloads/
+drone_detection/
